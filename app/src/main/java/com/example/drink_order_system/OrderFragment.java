@@ -234,7 +234,7 @@ public class OrderFragment extends Fragment {
                 R.drawable.add07));
 
 //001
-
+//002
 
 
         for (int i = 0; i < drinks_array.size(); i++) {
