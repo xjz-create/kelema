@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">柠檬的茶</string>
+    <string name="app_name">渴了么</string>
     <string name="username_hint">"请输入用户名"</string>
     <string name="password_hint">"请输入8位以上的密码"</string>
     <string name="login">"登录"</string>
